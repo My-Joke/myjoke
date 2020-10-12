@@ -1,0 +1,6 @@
+that's ERROR.2020-10-10 15:32:11.041200 priority:ERROR
+
+that's DEBUG.2020-10-10 15:32:12.977329 priority:DEBUG
+
+that's TRACE.2020-10-10 15:32:13.840451 priority:TRACE
+
